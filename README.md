@@ -68,7 +68,7 @@ Ensure you have installed:
 • Git
 
 Clone the Repository
-git clone https://github.com/dhruvwadhwani7/Excel-Analyzer.git
+git clone https://github.com/Kksadhna/https---github.com-Kksadhna-Excel-Analyzer-app/
 cd Excel-Analyzer
 
 Running Locally
