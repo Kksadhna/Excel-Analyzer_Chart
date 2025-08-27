@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://excelanalyzer.netlify.app/" target="_blank"><strong>🌐 Live App</strong></a> |
-  <a href="https://github.com/dhruvwadhwani7/Excel-Analyzer" target="_blank">📦 Source Code</a>
+  <a href="https://github.com/Kksadhna/https---github.com-Kksadhna-Excel-Analyzer-app/" target="_blank">📦 Source Code</a>
 </p>
 
 ---
